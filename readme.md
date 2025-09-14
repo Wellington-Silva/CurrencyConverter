@@ -1,0 +1,1 @@
+Um pequeno projeto de um conversor de Real para dolar com PHP consumindo a API do Banco Central.
